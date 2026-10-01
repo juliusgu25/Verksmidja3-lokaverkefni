@@ -6,3 +6,4 @@
 ## raspberry pi 4 - server-inn
 
 ## 3d asset
+það tók smá tíma að mæla og setja up 3d modelið og gera það þannig að raspberry pi passi í það og það hefur rými ef reykningarnar voru rangar.
