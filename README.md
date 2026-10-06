@@ -7,3 +7,14 @@
 
 ## 3d asset
 það tók smá tíma að mæla og setja up 3d modelið og gera það þannig að raspberry pi passi í það og það hefur rými ef reykningarnar voru rangar. þegar assetið var buið að prentast þá var það smá lýtið en það passar í það, smá þrongt en passar. það þarf smá að pússa hliðarnar á lokinu og kanski stæka eitt gat en restin passar í það.
+
+
+## Stutt myndband af virkni.
+
+## Ljósmyndir af IoT frumgerð.
+
+## Íhlutalisti, allir íhlutir sem notaðir eru í verkefninu.
+
+## Flæðirit (e. flow chart) af IoT Frumgerð.
+
+## Hönnunarteikningar (til prentunar) 2d (svg) og 3d teikningar (.stl skráin).
