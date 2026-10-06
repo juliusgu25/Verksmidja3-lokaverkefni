@@ -1,3 +1,4 @@
+![Uploading walkie talkie.svg…]()
 # Verksmidja3-lokaverkefni
 
 ## Uppsetning raspberry pi zero w2
@@ -18,3 +19,4 @@
 ## Flæðirit (e. flow chart) af IoT Frumgerð.
 
 ## Hönnunarteikningar (til prentunar) 2d (svg) og 3d teikningar (.stl skráin).
+
