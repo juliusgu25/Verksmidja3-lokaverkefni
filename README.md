@@ -12,12 +12,11 @@
 ## Stutt myndband af virkni.
 
 ## Ljósmyndir af IoT frumgerð.
-![Alt Text](URL)
-![Alt Text](URL)
 
 ## Íhlutalisti, allir íhlutir sem notaðir eru í verkefninu.
 
 ## Flæðirit (e. flow chart) af IoT Frumgerð.
 
 ## Hönnunarteikningar (til prentunar) 2d (svg) og 3d teikningar (.stl skráin).
-
+![Alt Text](URL)
+![Alt Text](URL)
