@@ -19,4 +19,5 @@
 
 ## Hönnunarteikningar (til prentunar) 2d (svg) og 3d teikningar (.stl skráin).
 <img src="walkie_talkie.svg" alt="My SVG Image" width="300">
-![View the 3D Model](walkie_talkie.stl)
+
+[View the 3D Model](walkie_talkie.stl)
