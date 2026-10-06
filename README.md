@@ -19,4 +19,4 @@
 
 ## Hönnunarteikningar (til prentunar) 2d (svg) og 3d teikningar (.stl skráin).
 ![Alt Text](walkie_talkie.svg)
-![Alt Text](walkie_talkie.lti)
+![Alt Text](walkie_talkie.stl)
