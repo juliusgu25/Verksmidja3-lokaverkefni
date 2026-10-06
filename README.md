@@ -18,5 +18,5 @@
 ## Flæðirit (e. flow chart) af IoT Frumgerð.
 
 ## Hönnunarteikningar (til prentunar) 2d (svg) og 3d teikningar (.stl skráin).
-![Alt Text](URL)
-![Alt Text](URL)
+![Alt Text](walkie_talkie.svg)
+![Alt Text](walkie_talkie.lti)
