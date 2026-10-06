@@ -12,6 +12,8 @@
 ## Stutt myndband af virkni.
 
 ## Ljósmyndir af IoT frumgerð.
+![Alt Text](URL)
+![Alt Text](URL)
 
 ## Íhlutalisti, allir íhlutir sem notaðir eru í verkefninu.
 
