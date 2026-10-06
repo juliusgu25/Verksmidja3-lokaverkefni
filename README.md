@@ -1,4 +1,3 @@
-![Uploading walkie talkie.svg…]()
 # Verksmidja3-lokaverkefni
 
 ## Uppsetning raspberry pi zero w2
