@@ -11,7 +11,7 @@ niðurhal á umbreyttu útgáfunni hér
 það tók smá tíma að mæla og setja up 3d modelið og gera það þannig að raspberry pi passi í það og það hefur rými ef reykningarnar voru rangar. þegar assetið var buið að prentast þá var það smá lýtið en það passar í það, smá þrongt en passar. það þarf smá að pússa hliðarnar á lokinu og kanski stæka eitt gat en restin passar í það.
 
 ## Stutt myndband af virkni.
--- þegar tilbuið
+[video](https://1drv.ms/v/c/d179c8680167ef39/IQBcZG7cvz9fQ4Nravmj1VuNAZa0D2ZqbTShuxyfWXk9rt8?e=yAwjjB)
 
 ## Ljósmyndir af IoT frumgerð.
 ![upsetning](IMG_0624.jpeg)
