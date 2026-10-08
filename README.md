@@ -14,7 +14,7 @@ niðurhal á umbreyttu útgáfunni hér
 -- þegar tilbuið
 
 ## Ljósmyndir af IoT frumgerð.
--- þegar tilbuið
+![upsetning](IMG_0624.jpeg)
 
 ## Íhlutalisti, allir íhlutir sem notaðir eru í verkefninu.
 raspberru pi, audio speaker -- breitta
