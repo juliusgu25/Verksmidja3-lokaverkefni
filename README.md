@@ -19,6 +19,7 @@ niðurhal á umbreyttu útgáfunni hér
 
 ## Flæðirit (e. flow chart) af IoT Frumgerð.
 
+
 ## Hönnunarteikningar (til prentunar) 2d (svg) og 3d teikningar (.stl skráin).
 <img src="walkie_talkie.svg" alt="My SVG Image" width="300">
 
