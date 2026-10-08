@@ -17,7 +17,7 @@ niðurhal á umbreyttu útgáfunni hér
 ![upsetning](IMG_0624.jpeg)
 
 ## Íhlutalisti, allir íhlutir sem notaðir eru í verkefninu.
-raspberru pi, audio speaker -- breitta
+speaker, 2 mics pi hat v1,1, raspberry pi 0w, raspberry pi 4.
 
 ## Flæðirit (e. flow chart) af IoT Frumgerð.
 ![flæðirit](flowchart.drawio.png)
