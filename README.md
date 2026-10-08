@@ -18,7 +18,7 @@ niðurhal á umbreyttu útgáfunni hér
 ## Íhlutalisti, allir íhlutir sem notaðir eru í verkefninu.
 
 ## Flæðirit (e. flow chart) af IoT Frumgerð.
-[flæðirit](flowchart (2).draw.io)
+[flæðirit](flowchart.drawio.png)
 
 
 ## Hönnunarteikningar (til prentunar) 2d (svg) og 3d teikningar (.stl skráin).
