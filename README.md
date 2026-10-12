@@ -8,7 +8,7 @@ Nóg dugði að fylgja leiðbeiningunum sem fylgdu ofangreindu söfnunum til þe
 ## raspberry pi 4 - server-inn
 líkan háskóla Reykjavíkur var nýtt í talgreiningu: https://huggingface.co/palli23/whisper-tiny-samromur-500h/tree/main
 en þar sem okkur langaði að nýta fast-whisper til að hámarka hraðann þurftum við að umbreyta líkaninu yfir í CTranslate2-snið.
-niðurhal á umbreyttu útgáfunni hér
+[niðurhal á umbreyttu útgáfunni](https://studenttskoli-my.sharepoint.com/:u:/g/personal/juliusgu25_tskoli_is/IQA9972tYym0Q63XaHZEfOWXASHb4pXRcZWH3HJ1kV13vCI?e=yx9cHa)
 
 
 ## 3d asset
