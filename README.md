@@ -33,7 +33,7 @@ en þar sem okkur langaði að nýta fast-whisper til að hámarka hraðann þur
 ![upsetning](IMG_0624.jpeg)
 
 ## Skámynd af NiceGUI 
-![skjámynd]([Skjámynd 2026-10-14 115052.png](https://github.com/juliusgu25/Verksmidja3-lokaverkefni/blob/main/Skj%C3%A1mynd%202026-10-14%20115052.png))
+[skjamynd](Skjámynd 2026-10-14 115052.png)
 
 ## Íhlutalisti, allir íhlutir sem notaðir eru í verkefninu.
 speaker, 2 mics pi hat v1,1, raspberry pi 0w, raspberry pi 4.
