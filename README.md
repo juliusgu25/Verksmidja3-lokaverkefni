@@ -1,5 +1,15 @@
 # Verksmidja3-lokaverkefni
-## Hvernig virkar forritið?
+#Lýsing verkefnis
+Talstöðvakerfi: Tvær talstöðvar, einn broker
+Hægt er að tala við hvorn annan í gegnum talstöðvarnar svo fremi sem notendur eru á sama neti og allar tölvurnar séu í gangi og að keyra kóðann. 
+
+Verkefni samanstendur af einu Raspberry Pi 4 og tveim Raspberry Pi Zero W2
+
+Raspberry pi 4 tekur að sér hlutverk broker (sem móttekur skilaboð og áframsendir þau)
+Raspberry pi zero 2 taka hvor um sig hlutverk senda (sem senda skilaboð til broker-sins)
+
+Sendarnir nota ReSpeaker 2 Mics Pi Hat til þess að taka upp hljóð og er hnappurinn (17) á borðinu notaður til þess að hefja og stoppa upptöku auk þess var tölvan stillt þannig að hún myndi keyra kóðann við ræsingu. Síðan var hátalari lóðaður til þess að passa í ákveðnu tengi á borðinu sem var merkt "Speaker". Kóðinn á tölvunni sendir hljóðupptökurnar í bitum til broker-sins sem sendir síðan til hinnar talstöðvarinnar sem spilar hljóðið. Að lokum þurfti að koma þessu öllu saman fyrir í þrívíddarprentuðum kassa sem við hönnuðum. Þetta þurfti að gera beggja vegna.
+Sendillinn var einfaldlega venjulegur raspberry pi sem keyrði kóðann sem við skrifuðum. Engar sérstakar ráðstafanir þurfti að gera til þess að láta hann virka. Hann þarf að vera í gangi og á sama neti til þess að þetta virki.
 
 
 ## Uppsetning raspberry pi zero w2
