@@ -1,6 +1,6 @@
 # Verksmidja3-lokaverkefni
 ## Lýsing verkefnis
-Talstöðvakerfi: Tvær talstöðvar, einn broker
+Talstöðvakerfi: Tvær talstöðvar, einn broker - 
 Hægt er að tala við hvorn annan í gegnum talstöðvarnar svo fremi sem notendur eru á sama neti og allar tölvurnar séu í gangi og að keyra kóðann. 
 
 Verkefni samanstendur af einu Raspberry Pi 4 og tveim Raspberry Pi Zero W2
