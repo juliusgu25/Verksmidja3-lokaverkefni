@@ -1,5 +1,5 @@
 # Verksmidja3-lokaverkefni
-#Lýsing verkefnis
+## Lýsing verkefnis
 Talstöðvakerfi: Tvær talstöðvar, einn broker
 Hægt er að tala við hvorn annan í gegnum talstöðvarnar svo fremi sem notendur eru á sama neti og allar tölvurnar séu í gangi og að keyra kóðann. 
 
