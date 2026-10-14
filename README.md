@@ -11,6 +11,10 @@ Raspberry pi zero 2 taka hvor um sig hlutverk senda (sem senda skilaboð til bro
 Sendarnir nota ReSpeaker 2 Mics Pi Hat til þess að taka upp hljóð og er hnappurinn (17) á borðinu notaður til þess að hefja og stoppa upptöku auk þess var tölvan stillt þannig að hún myndi keyra kóðann við ræsingu. Síðan var hátalari lóðaður til þess að passa í ákveðnu tengi á borðinu sem var merkt "Speaker". Kóðinn á tölvunni sendir hljóðupptökurnar í bitum til broker-sins sem sendir síðan til hinnar talstöðvarinnar sem spilar hljóðið. Að lokum þurfti að koma þessu öllu saman fyrir í þrívíddarprentuðum kassa sem við hönnuðum. Þetta þurfti að gera beggja vegna.
 Sendillinn var einfaldlega venjulegur raspberry pi sem keyrði kóðann sem við skrifuðum. Engar sérstakar ráðstafanir þurfti að gera til þess að láta hann virka. Hann þarf að vera í gangi og á sama neti til þess að þetta virki.
 
+### Möppur:
+* broker = allur kóðinn fyrir broker-inn
+* sendir1 = allur kóðinn fyrir talstöð 1
+* sendir2 = allur kóðinn fyrir talstöð 2
 
 ## Uppsetning raspberry pi zero w2
 Það reyndist dáldið þrjóskt að setja upp viðeigandi hugbúnað upp á tækið. https://github.com/respeaker/seeed-voicecard var einstaklega tregt þar það festist í lykkju um að vilja hörfa í ákveðna útgáfu. Hins vegar gátum við notað https://github.com/HinTak/seeed-voicecard sem var lagfærð útgáfa af búnaðinum og það tókst að setja hann upp klakklaust. Síðan fylgdum við https://wiki.seeedstudio.com/ReSpeaker_2_Mics_Pi_HAT_Raspberry/ frá A til Ö og lentum við ekki í neinum vandræðum með uppsetningu á honum. Hátalarinn reyndist einnig dáldið þrjóskur og þurfti að lóða hann mjög vel til þess að láta hann virka auk þess að lóða ákveðna tegund tengis sem lítið var til af.
